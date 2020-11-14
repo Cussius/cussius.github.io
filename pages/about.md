@@ -3,21 +3,15 @@ layout: misc
 title: About
 ---
 
-## Education
-### Bachelor of Information Science (Hons)(Specialising in publishing)
-*University of Pretoria*
+## Junior Commissioning Editor
+### [Van Schaik Publishers](http://vanschaiknet.com/)
+*Aug 2019 – Present | Pretoria, South Africa*
 
----
+Commission academic textbooks in the following fields:
 
-| ## Junior Commissioning Editor |
-| ### [Van Schaik Publishers](http://vanschaiknet.com/) |
-| *Aug 2019 – Present | Pretoria, South Africa* |
-|  |
-| Commission academic textbooks in the following fields: |
-|  |
-| * Educational psychology |
-| * Education leadership and management |
-| * Education research |
+* Educational psychology
+* Education leadership and management
+* Education research
 
 ---
 
@@ -42,3 +36,13 @@ Assisted the commissioning editors and publisher responsible for the education, 
 ## Van Schaik Publishers Excellence Awards for Service
 ### [Source](https://pics.media24.com/24_7/!2016/August/24/E_page.html)
 *Media24 Books | Aug 2016*
+
+---
+
+# Education
+
+## Education
+### Bachelor of Information Science (Hons)(Specialising in publishing)
+*University of Pretoria*
+
+---

@@ -3,6 +3,12 @@ layout: misc
 title: About
 ---
 
+## Education
+### Bachelor of Information Science (Hons)(Specialising in publishing)
+*University of Pretoria*
+
+---
+
 ## Junior Commissioning Editor
 ### [Van Schaik Publishers](http://vanschaiknet.com/)
 *Aug 2019 – Present | Pretoria, South Africa*

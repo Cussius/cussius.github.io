@@ -3,4 +3,21 @@ layout: misc
 title: Contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <input type="text" name="name" placeholder="Your name"/>   
+  </p>
+  <p>
+    <input type="email" name="email" placeholder="Your email"/>
+  </p>
+  <p>
+    <textarea name="message" placeholder="Message" style="width:100%"></textarea>
+  </p>
+  <p>
+  <input type="file" id="myfile" name="myfile" value="Upload a file">
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+

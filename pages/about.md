@@ -7,7 +7,7 @@ title: About
 
 ## Junior Commissioning Editor
 ### [Van Schaik Publishers](http://vanschaiknet.com/)
-*Aug 2019 – Present  Pretoria, South Africa*
+*Aug 2019 – Present | Pretoria, South Africa*
 
 Commission academic textbooks in the following fields:
 
@@ -17,13 +17,13 @@ Commission academic textbooks in the following fields:
 ---
 ## Development Editor
 ### [Van Schaik Publishers](http://vanschaiknet.com/)
-*May 2018 – Jul 2019  Pretoria, South Africa*
+*May 2018 – Jul 2019 | Pretoria, South Africa*
 
 Oversaw the educational psychology titles and investigated developments in the field.
 ---
 ## Publishing Assistant
 ### [Van Schaik Publishers](http://vanschaiknet.com/)
-*Mar 2014 – Apr 2018  Pretoria, South Africa*
+*Mar 2014 – Apr 2018 | Pretoria, South Africa*
 
 Assisted the commissioning editors and publisher responsible for the education, nursing, public administration, and social science titles.
 
@@ -31,4 +31,4 @@ Assisted the commissioning editors and publisher responsible for the education, 
 
 ## Van Schaik Publishers Excellence Awards for Service
 ### [Source] (https://pics.media24.com/24_7/!2016/August/24/E_page.html)
-* Media24 Books Aug 2016*
+*Media24 Books | Aug 2016*

@@ -8,7 +8,7 @@ title: About
 *University of Pretoria*
 
 ---
-
+`
 ## Junior Commissioning Editor
 ### [Van Schaik Publishers](http://vanschaiknet.com/)
 *Aug 2019 – Present | Pretoria, South Africa*
@@ -18,7 +18,7 @@ Commission academic textbooks in the following fields:
 * Educational psychology
 * Education leadership and management
 * Education research
-
+`
 ---
 
 ## Development Editor

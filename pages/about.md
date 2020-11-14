@@ -3,8 +3,6 @@ layout: misc
 title: About
 ---
 
-# Experience
-
 ## Junior Commissioning Editor
 ### [Van Schaik Publishers](http://vanschaiknet.com/)
 *Aug 2019 – Present | Pretoria, South Africa*

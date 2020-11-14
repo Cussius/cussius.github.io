@@ -41,8 +41,7 @@ Assisted the commissioning editors and publisher responsible for the education, 
 
 # Education
 
-## Education
-### Bachelor of Information Science (Hons)(Specialising in publishing)
+## Bachelor of Information Science (Hons)(Specialising in publishing)
 *University of Pretoria*
 
 ---

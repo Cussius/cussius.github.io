@@ -34,7 +34,7 @@ Assisted the commissioning editors and publisher responsible for the education, 
 # Accomplishments
 
 ## Van Schaik Publishers Excellence Awards for Service
-### [Source](https://pics.media24.com/24_7/!2016/August/24/E_page.html)
+### [Source](https://pics.media24.com/24_7/!2016/August/24/E_page.html#1)
 *Media24 Books | Aug 2016*
 
 ---
